@@ -20,7 +20,7 @@
   color: #fff;
   padding: 8px 20px;
   border: 1px solid var(--primary);
-  transform: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
 }
 
 .btn--medium {
@@ -37,5 +37,5 @@
 .btn--large:hover {
   background: #fff;
   color: #242424;
-  transform: all 0.3s ease-out;
+  transition: all 0.3s ease-out;
 }
